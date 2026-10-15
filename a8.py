@@ -16,7 +16,7 @@ You may use either math.sqrt(x) or the exponent to the power of 0.5 for your squ
  '''
 import math
 
-kat1 =  5
-kat2 =  5
+kat1 =  0
+kat2 =  3204903
 answer = math.sqrt(kat1**2 + kat2**2)
 print(answer)
